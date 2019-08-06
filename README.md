@@ -4,12 +4,14 @@
 
 * Для администрирования БД пользуется оболочка MySqlWorkbench https://www.mysql.com/products/workbench/
 
-```1 тестовый аккаунт 3MtN7bbr8sNsqNA1m9XemxKEdpMAUauosAX 
+```
+1 тестовый аккаунт 3MtN7bbr8sNsqNA1m9XemxKEdpMAUauosAX 
 логин qnt
 пароль Quantor123!
 ```
+
 ```
-2 естовый аккаунт  3Mz3keVp5n9zYnmZKoaXr9js49eHKdddx8Y
+2 еестовый аккаунт  3Mz3keVp5n9zYnmZKoaXr9js49eHKdddx8Y
 логин qnt2
 пароль Quantor123!
 ```
