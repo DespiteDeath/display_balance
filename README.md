@@ -4,6 +4,7 @@
  
 Для администрирования БД пользуется оболочка MySqlWorkbench https://www.mysql.com/products/workbench/
  
+ 
 ```
 1 тестовый аккаунт 3MtN7bbr8sNsqNA1m9XemxKEdpMAUauosAX 
 логин qnt
@@ -16,10 +17,12 @@
 пароль Quantor123!
 ```
  
+ 
 Тестовый кошелек — https://testnet.waveswallet.io
  
 Пополнение тестового кошелька валютой —
 https://wavesexplorer.com/testnet/faucet
+ 
  
 Swagger Api:
 * Main network — https://nodes.wavesnodes.com
