@@ -21,9 +21,9 @@
 Пополнение тестового кошелька валютой —
 https://wavesexplorer.com/testnet/faucet
  
->Swagger Api:
->* Main network — https://nodes.wavesnodes.com
->* Test network — https://nodes-testnet.wavesnodes.com
+Swagger Api:
+* Main network — https://nodes.wavesnodes.com
+* Test network — https://nodes-testnet.wavesnodes.com
  
 Nodes Api —
 https://docs.wavesplatform.com/en/waves-node/node-api.html
