@@ -16,17 +16,17 @@
 пароль Quantor123!
 ```
  
->Тестовый кошелек — https://testnet.waveswallet.io
+Тестовый кошелек — https://testnet.waveswallet.io
  
->Пополнение тестового кошелька валютой —
->https://wavesexplorer.com/testnet/faucet
+Пополнение тестового кошелька валютой —
+https://wavesexplorer.com/testnet/faucet
  
 >Swagger Api:
 >* Main network — https://nodes.wavesnodes.com
 >* Test network — https://nodes-testnet.wavesnodes.com
  
->Nodes Api —
->https://docs.wavesplatform.com/en/waves-node/node-api.html
+Nodes Api —
+https://docs.wavesplatform.com/en/waves-node/node-api.html
  
-Waves Documentation — 
->https://docs.wavesplatform.com/ru/
+Waves Documentation —
+https://docs.wavesplatform.com/ru/
