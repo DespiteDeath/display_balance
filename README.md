@@ -10,7 +10,7 @@
 пароль Quantor123!
 ```
 ```
-2 еестовый аккаунт  3Mz3keVp5n9zYnmZKoaXr9js49eHKdddx8Y
+2 тестовый аккаунт  3Mz3keVp5n9zYnmZKoaXr9js49eHKdddx8Y
 логин qnt2
 пароль Quantor123!
 ```
